@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/gist/holiveira07/b34a75230c0f3fa5c127e6f9
 
 - 🔥 Junior web developer focused on full stack
 - ❔ My goal is to be able to contribute to the resolution of the most varied problems using the most diverse technologies
-- 💻 I’m currently learning <br> <img left="right" height="40cm"
+- 💻 I’m currently learning <br> <img left="right" height="65cm"
 src="https://raw.githubusercontent.com/gist/holiveira07/b34a75230c0f3fa5c127e6f9e1fadbe0/raw/6b66e74c538c9518c8b44bd6ac0d1743f03cef42/githubcard1.svg">
 
 

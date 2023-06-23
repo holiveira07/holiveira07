@@ -10,4 +10,23 @@ src="https://raw.githubusercontent.com/gist/holiveira07/cedd449376e6a2f7d2699a8a
 
 ## Contact
 
+<!--<p align="left" style="background:yellow">
+
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a> -->
+<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-holiveira07-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/henriqueoliveira07/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-holiveira07-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/holiveira_07/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-holiveira07-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-holiveira07-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p> 
+
 
